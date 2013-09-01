@@ -53,8 +53,7 @@
                         <li><a href="#kalender" id="kalender-link" class="skel-panels-ignoreHref"><span class="icon icon-calendar">Kalender</span></a></li>
                         <li><a href="#anschaffungen" id="anschaffungen-link" class="skel-panels-ignoreHref"><span class="icon icon-gift">Anschaffungen</span></a></li>
                         <li><a href="#projekte" id="projekte-link" class="skel-panels-ignoreHref"><span class="icon icon-tasks">Projekte</span></a></li>
-                        <li><a href="#wunschliste" id="wunschliste-link" class="skel-panels-ignoreHref"><span class="icon icon-plus">Wunschliste</span></a></li>
-                        <li><a href="logout.php"><span class="icon icon-eject">Sign out</span></a></li>
+                        <li><a href="#wunschliste" id="wunschliste-link" class="skel-panels-ignoreHref"><span class="icon icon-lightbulb">Wunschliste</span></a></li>
                     </ul>
                 </nav>
 
@@ -62,14 +61,11 @@
 
             <div class="bottom">
 
-                <!-- Social Icons 
+                <!-- Social Icons -->
                         <ul class="icons">
-                                <li><a href="#" class="icon icon-twitter"><span>Twitter</span></a></li>
-                                <li><a href="#" class="icon icon-facebook"><span>Facebook</span></a></li>
-                                <li><a href="#" class="icon icon-github"><span>Github</span></a></li>
-                                <li><a href="#" class="icon icon-dribbble"><span>Dribbble</span></a></li>
-                                <li><a href="#" class="icon icon-envelope"><span>Email</span></a></li>
-                        </ul>-->
+                                <li><a href="settings.php" class="icon icon-wrench"><span>Settings</span></a></li>
+                                <li><a href="logout.php" class="icon icon-signout"><span>Sign out</span></a></li>
+                        </ul>
 
             </div>
 
